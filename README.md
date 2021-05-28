@@ -1,7 +1,7 @@
 ### Hi, I`m Nikita 👋
 
-- 🔭 I’m currently working on React / Redux projects
-- 🌱 I’m currently learning React Native / Saga
+- 🔭 I’m currently working on React / Redux projects;
+- 🌱 I’m currently learning React Native / Saga;
 - 💬 Ask me about anything, I am happy to help;
 
 ![Nikitas's github stats](https://github-readme-stats.vercel.app/api?username=rbkv-dev&show_icons=true&count_private=true)
